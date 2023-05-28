@@ -1,0 +1,8 @@
+This text file contains all the resources provided by my mentors for the 
+SoC project ArgueAI.
+
+https://github.com/massanishi/document_similarity_algorithms_experiments
+https://beautiful-soup-4.readthedocs.io/en/latest/
+https://www.geeksforgeeks.org/implementing-web-scraping-python-beautiful-soup/
+https://medium.com/compassred-data-blog/introduction-to-word-embeddings-and-its-applications-8749fd1eb232
+https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
